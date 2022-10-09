@@ -5,6 +5,6 @@
 #### kubectl create -f mongo-secret.yaml
 #### kubectl create -f mongo.yaml
 
-#then type minikune ip
+####then type minikune ip
 
-##hit the ip in browser:30119
+####type in browser   ip:30119
